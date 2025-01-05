@@ -1,76 +1,86 @@
 [{
 	"_id": "ruanjian",
-	"classify": "软件·社区",
+	"classify": "网站·工具",
 	"icon": "ti-download",
 	"sites": [{
-		"name": "520解说",
-		"href": "https://www.youtube.com/@LRH520",
-		"desc": "软件安全与病毒分析,逆向、破解、技术",
+		"name": "图片翻译",
+		"href": "https://www.xiangjifanyi.com/console/workspace",
+		"desc": "图片翻译",
 		"logo": "static/icons/52pojie.cn.ico"
 	}, {
-		"name": "镜像网站导航",
-		"href": "http://www.dayanzai.me/",
-		"desc": "镜像网站导航",
+		"name": "一帧妙创",
+		"href": "https://aigc.yizhentv.com/home/app/",
+		"desc": "一帧妙创",
 		"logo": "static/icons/dayanzai.me.ico"
 	}, {
-		"name": "大眼仔旭",
-		"href": "http://www.dayanzai.me/",
-		"desc": "绿软、汉化软件分享",
+		"name": "百度AI图片助手",
+		"href": "https://image.baidu.com/search/index",
+		"desc": "百度AI图片助手",
 		"logo": "static/icons/dayanzai.me.ico"
 	}, {
-		"name": "520解说",
-		"href": "https://www.youtube.com/@LRH520",
-		"desc": "软件分享",
+		"name": "图片放大",
+		"href": "https://bigjpg.com",
+		"desc": "图片放大",
 		"logo": "static/icons/dayanzai.me.ico"
 	}, {
-		"name": "殁漂遥",
-		"href": "https://www.mpyit.com/",
-		"desc": "分类齐全，不定时修改下载地址获取方式",
+		"name": "Youtube",
+		"href": "https://www.youtube.com/",
+		"desc": "Youtube",
 		"logo": "static/icons/mpyit.com.ico"
 	}, {
-		"name": "胡萝卜周",
-		"href": "http://www.carrotchou.blog/",
-		"desc": "又一个软件分享'领跑者'",
+		"name": "Google",
+		"href": "https://www.google.com/?hl=zh_CN",
+		"desc": "Google",
 		"logo": "static/icons/appcgn.com.ico"
 	}, {
-		"name": "软件缘",
-		"href": "https://www.appcgn.com/",
-		"desc": "绿化、汉化软件",
+		"name": "谷歌应用商店",
+		"href": "https://chromewebstore.google.com/category/extensions?hl=zh-CN",
+		"desc": "谷歌应用商店",
 		"logo": "static/icons/appcgn.com.ico"
 	}, {
-		"name": "看雪学院",
-		"href": "https://www.kanxue.com/",
-		"desc": "加密与解密，渗透与反渗透",
+		"name": "百度网盘",
+		"href": "https://pan.baidu.com",
+		"desc": "百度网盘",
 		"logo": "static/icons/kanxue.com.ico"
 	}, {
-		"name": "少数派",
-		"href": "https://sspai.com/",
-		"desc": "生产力工具推荐平台（含会员付费阅读制）",
+		"name": "淘宝网",
+		"href": "https://www.taobao.com",
+		"desc": "淘宝网",
 		"logo": "static/icons/sspai.com.ico"
 	}, {
-		"name": "Zdfans",
-		"href": "https://www.zdfans.com/",
-		"desc": "转手之后变得很难看，但还能用",
+		"name": "修心日历",
+		"href": "https://www.rili.com.cn/foli/",
+		"desc": "修心日历",
 		"logo": "static/icons/zdfans.com.ico"
 	}, {
-		"name": "小众软件",
-		"href": "https://www.appinn.com/",
-		"desc": "分享免费、小巧、实用、有趣、绿色的软件",
+		"name": "迅捷语音翻译",
+		"href": "https://app.xunjiepdf.com/fanyivoice/",
+		"desc": "语音翻译",
 		"logo": "static/icons/appinn.com.ico"
 	}, {
-		"name": "果核剥壳",
-		"href": "https://www.ghpym.com/",
-		"desc": "优秀资源推荐、评测，限免优惠资讯",
+		"name": "百度地图",
+		"href": "https://map.baidu.com",
+		"desc": "百度地图",
 		"logo": "static/icons/ghpym.com.ico"
 	}, {
-		"name": "异次元软件",
-		"href": "https://www.iplaysoft.com/",
-		"desc": "优秀资源推荐、评测，限免优惠资讯",
+		"name": "小米商城",
+		"href": "https://www.mi.com/shop",
+		"desc": "小米商城",
+		"logo": "static/icons/ghpym.com.ico"
+	}, {
+		"name": "西瓜视频",
+		"href": "https://www.ixigua.com",
+		"desc": "西瓜视频",
+		"logo": "static/icons/ghpym.com.ico"
+	}, {
+		"name": "今日头条",
+		"href": "https://www.toutiao.com",
+		"desc": "今日头条",
 		"logo": "static/icons/iplaysoft.com.ico"
 	}, {
-		"name": "photopea",
-		"href": "https://www.photopea.com/",
-		"desc": "在线ps，支持绝大多数功能。",
+		"name": "抖音",
+		"href": "https://www.douyin.com/recommend",
+		"desc": "抖音",
 		"logo": "static/icons/photopea.com.png"
 	}]
 }, {
@@ -408,14 +418,3 @@
 		"desc": "可商用图片站-支持中文",
 		"logo": "static/icons/pexels.com.ico"
 	}]
-}, {
-	"_id": "blog",
-	"classify": "优秀博客",
-	"icon": "ti-medall-alt",
-	"sites": [{
-		"name": "Rat's Blog ",
-		"href": "https://www.moerats.com/",
-		"desc": "KMS、VPS、Aria2相关主机与建站技术分享",
-		"logo": "https://www.moerats.com/usr/picture/favicon.ico"
-	}]
-}]
